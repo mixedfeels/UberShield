@@ -18,9 +18,6 @@ O UberShield está sendo desenvolvido com objetivo de oferecer uma camada adicio
 
 </p>
 
-## 🛠 Estrutura de pastas
-
----
 
 **Descrição das pastas:**
 
