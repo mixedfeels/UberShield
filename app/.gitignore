@@ -1,0 +1,105 @@
+# =====================================
+# Node.js / Express
+# =====================================
+node_modules/
+dist/
+build/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# =====================================
+# Arquivos de ambiente
+# =====================================
+.env
+.env.*
+!.env.example
+
+# =====================================
+# Logs
+# =====================================
+logs/
+*.log
+
+# =====================================
+# Test coverage
+# =====================================
+coverage/
+
+# =====================================
+# Editor / Sistema Operacional
+# =====================================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# =====================================
+# Documentação gerada
+# =====================================
+docs/
+*.docset/
+*.pdf
+
+# =====================================
+# Android Studio / Gradle
+# =====================================
+# Pastas e arquivos de configuração da IDE
+.idea/
+*.iml
+
+# Caches e builds do Gradle
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Arquivos locais de propriedades (como SDK path)
+local.properties
+
+# Outputs do build
+*.apk
+*.ap_
+*.dex
+*.class
+*.aar
+
+# Arquivos temporários do Gradle
+.gradle/
+.gradle-cache/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Distribuições do Gradle baixadas
+gradle-app.setting
+gradlew
+gradlew.bat
+
+# =====================================
+# Chaves e segredos Android
+# =====================================
+*.jks
+*.keystore
+
+# =====================================
+# Emuladores Android
+# =====================================
+*.lock
+
+# =====================================
+# Outros temporários
+# =====================================
+*.tmp
+tmp/
+temp/
+*.bak
+*.old
+*.tgz
+*.tar.gz
+*.zip
+
+# Lint outputs
+eslint-report.*
+stylelint-report.*
+tslint-report.*
